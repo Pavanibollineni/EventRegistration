@@ -1,0 +1,6 @@
+@EventRegistration.api_HostAddress = http://localhost:5039
+
+GET {{EventRegistration.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
